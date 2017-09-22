@@ -8,3 +8,7 @@ Status
 
 Just sketching. Do not use.
 
+See also
+--------
+http://github.com/tlack/xxl http://github.com/tlack/xacto
+
